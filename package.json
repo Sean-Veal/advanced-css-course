@@ -4,7 +4,7 @@
   "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass starter/sass/main.scss starter/css/style.css -w"
+    "compile:sass": "node-sass Trillo/starter/sass/main.scss Trillo/starter/css/style.css -w"
   },
   "repository": {
     "type": "git",
